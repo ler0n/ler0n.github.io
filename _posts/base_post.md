@@ -4,6 +4,7 @@ tags: [Tag1, Tag2, Tag3]
 style: 
 color: 
 description: Description
+published: false
 ---
 // markdown Title: YYYY-MM-DD-title-with-no-white-space
 

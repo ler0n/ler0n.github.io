@@ -1,0 +1,7 @@
+- name: Adobe After Effect
+  percentage: 80
+  color: secondary
+
+- name: Excel
+  percentage: 90
+  color: success

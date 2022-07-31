@@ -100,5 +100,4 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - _projects/project_base.md
-  - _posts/post_base.md
+  - base_*
